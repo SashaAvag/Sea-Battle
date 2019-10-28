@@ -28,21 +28,3 @@ app.listen(3000)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-// var user = {
-//         nickname: req.body.nickname,
-//         password: req.body.password,
-//         wins: 0,
-//         fails: 0, 
-//         isOnline: 0
-//       };
